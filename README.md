@@ -1,6 +1,8 @@
 <img align="right" height="590em" src="[https://www.canva.com/design/DAFS96rVQZw/GAW4CohlhLwH7upQXRjTJg/view?utm_content=DAFS96rVQZw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview](https://www.canva.com/design/DAFS96rVQZw/view)"/>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez, um desenvolvedor junior soteropolitano a seu dispor!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez!</h1>
+
+<p>Sinta-se a vontade para conhecer meu perfil.
 <hr>
 
 - 🔥 Dev Junior em busca de oportunidade 
@@ -11,6 +13,7 @@
 
 - 😎 Pronomes: ele/dele
 
+##
 <hr>
 <div> 
   <a href="https://instagram.com/leonardovafernandez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
