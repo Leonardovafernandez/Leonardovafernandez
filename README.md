@@ -1,7 +1,4 @@
-
-<a href="[https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFS96rVQZw&#x2F;view?utm_content=DAFS96rVQZw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link](https://www.canva.com/design/DAFS96rVQZw/view)" target="_blank" rel="noopener">leonardo fernandez</a> de Leonardo Fernandez
-
-<img align="right" height="590em" src="https://www.canva.com/design/DAFS96rVQZw/GAW4CohlhLwH7upQXRjTJg/view?utm_content=DAFS96rVQZw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview"/>
+<img align="right" height="590em" src="[https://www.canva.com/design/DAFS96rVQZw/GAW4CohlhLwH7upQXRjTJg/view?utm_content=DAFS96rVQZw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview](https://www.canva.com/design/DAFS96rVQZw/view)"/>
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez, um desenvolvedor junior soteropolitano a seu dispor!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
