@@ -1,10 +1,14 @@
 <img align="right" height="590em" src="./leonardo fernandez.png"/>
 
+
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez!</h1>
+
 
 <p><strong>Sinta-se a vontade para conhecer meu perfil.</strong></p>
 
+
 ##
+
 
 
 - 🔥 Dev Junior em busca de oportunidade 
@@ -14,6 +18,8 @@
 - 💬 Contate-me no email: leonardovafernandez@gmail.com
 
 - 😎 Pronomes: ele/dele
+
+
 
 ##
 
