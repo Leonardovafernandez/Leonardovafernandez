@@ -3,6 +3,10 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez!</h1>
 
 
+
+<p><strong>Entre e sinta-se a vontade para conhecer meu perfil e visitar meus repositórios.</strong></p>
+
+
 ##
 
 
@@ -13,8 +17,6 @@
 - 💬 Contate-me no email: leonardovafernandez@gmail.com
 
 - 😎 Pronomes: ele/dele
-
-<p><strong>Entre e sinta-se a vontade para conhecer meu perfil e visitar meus repositórios.</strong></p>
 
 ##
 
