@@ -3,13 +3,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez!</h1>
 
 
-<p><strong>Sobre mim: </strong></p>
-<p width="50%">Um soteropolitano muito alegre e enérgico que adora cozinhar e inventar arte na cozinha, além de apreciar bons pratos. Nos momentos vagos aproveito para pegar uma corridinha como atleta amador.</p>  
-
-<p width="50%">Atualmente estou em transição de carreira da minha área de formação inicial de engenharia mecânica para a área de tecnologia da informação. Desde quando comecei a conhecer um pouco mais sobre essa área e me apaixonar pela forma que o front pode mudar a vida de usuário web, o que me levou ao curso de Desenvolvimento de Software na Cubos Academy.</p>
-
-<p width="50%">Como objetivo profissional, busco entrar no me desenvolver como Dev junior, assim, ajudando as empresas a montar sites mais criativos e interativos para os seus usuários na parte de front como também na parte de back.</p>
-
 ##
 
 
