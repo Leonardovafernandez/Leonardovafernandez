@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="./leonardo fernandez.png"/>
+
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez!</h1>
 
