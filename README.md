@@ -5,7 +5,7 @@
 <p><strong>Entre e sinta-se a vontade para conhecer meu perfil e visitar meus repositórios.</strong></p>
 
 ##
-
+<div height="400em"> 
 - 🔥 Dev Junior em busca de oportunidade 
 
 - 💯 Aprendendo sobre **JavaScript, HTML, CSS, SQL, Node.JS**
@@ -13,7 +13,7 @@
 - 💬 Contate-me no email: leonardovafernandez@gmail.com
 
 - 😎 Pronomes: ele/dele
-
+</div>
 ##
 
 <div> 
