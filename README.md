@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="./leonardo fernandez.png"/>
+<img align="right" height="590em" src="./leonardo fernandez.png"/>   leosnake.svg
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Leonardo Fernandez!</h1>
 
@@ -31,5 +31,6 @@
   <a href="https://instagram.com/leonardovafernandez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
 ![](https://github.com/Leonardovafernandez/Leonardovafernandez/blob/main/download.md)
+ <img align="right" height="590em" src="./leosnake.svg"/> 
  
 </div>
