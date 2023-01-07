@@ -10,7 +10,7 @@
   
 - 🔥 Dev Junior em busca de oportunidade 
 
-- 💯 Aprendendo sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💯 Aprendendo sobre **JavaScript, HTML, CSS, React, SQL, Node.JS**
 
 - 💬 Contate-me no email: leonardovafernandez@gmail.com
 
