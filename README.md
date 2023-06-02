@@ -8,9 +8,9 @@
 
 <div height="400em"> 
   
-- 🔥 Dev Junior em busca de oportunidade 
+- 🔥 Dev sempre em busca de novos aprendizados 
 
-- 💯 Aprendendo sobre **JavaScript, HTML, CSS, React, SQL, Node.JS**
+- 💯 Conhecimentos sobre **React, Node.JS, TypeScript/JavaScript, HTML, CSS, SQL**
 
 - 💬 Contate-me no email: leonardovafernandez@gmail.com
 
