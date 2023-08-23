@@ -10,7 +10,7 @@
   
 - 🔥 Dev sempre em busca de novos aprendizados 
 
-- 💯 Conhecimentos sobre **React, Node.JS, TypeScript/JavaScript, HTML, CSS, SQL**
+- 💯 Conhecimentos sobre **ReactJS, Node.JS, TypeScript/JavaScript, Tailwind, Bootstrap, HTML, CSS, SQL**
 
 - 💬 Contate-me no email: leonardovafernandez@gmail.com
 
